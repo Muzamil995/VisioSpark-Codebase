@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="code_competition"
+=======
+        android:label="visiospark"
+>>>>>>> bc19b4dbe4a7cb43f5db487b2fb4b5abc57dabb4
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -21,6 +21,12 @@ migration:
     - platform: ios
       create_revision: a14f74ff3a1cbd521163c5f03d68113d50af93d3
       base_revision: a14f74ff3a1cbd521163c5f03d68113d50af93d3
+<<<<<<< HEAD
+=======
+    - platform: web
+      create_revision: a14f74ff3a1cbd521163c5f03d68113d50af93d3
+      base_revision: a14f74ff3a1cbd521163c5f03d68113d50af93d3
+>>>>>>> bc19b4dbe4a7cb43f5db487b2fb4b5abc57dabb4
 
   # User provided section
 
